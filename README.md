@@ -1,6 +1,6 @@
 # IPTV M3U 播放列表自动更新器
 
-[![Update IPTV M3U Playlist](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/actions/workflows/update_m3u.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/actions/workflows/update_m3u.yml)
+[![Update IPTV M3U Playlist](https://github.com/lfdao/vtpi-m3u/actions/workflows/update_m3u.yml/badge.svg)](https://github.com/lfdao/vtpi-m3u/actions/workflows/update_m3u.yml)
 
 这是一个自动化工具，定期从 [iptvcat.com](https://iptvcat.com) 网站获取指定国家或地区的 IPTV M3U8 播放列表，将它们合并成一个单一的、去重的 M3U 文件，并利用 GitHub Actions 实现云端自动更新和托管。
 
@@ -63,7 +63,7 @@
 
 运行成功后，您的播放列表地址为：
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/master.m3u
+https://raw.githubusercontent.com/lfdao/vtpi-m3u/main/master.m3u
 ```
 
 将此链接添加到您的播放器中即可。
@@ -107,8 +107,8 @@ schedule:
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/lfdao/vtpi-m3u.git
+cd vtpi-m3u
 
 # 安装依赖
 pip install -r requirements.txt

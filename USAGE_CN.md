@@ -55,7 +55,7 @@
 
 运行成功后，您的播放列表地址为：
 ```
-https://raw.githubusercontent.com/您的用户名/仓库名/main/master.m3u
+https://raw.githubusercontent.com/lfdao/vtpi-m3u/main/master.m3u
 ```
 
 ## 📱 播放器配置
@@ -120,8 +120,8 @@ schedule:
 
 ```bash
 # 克隆仓库
-git clone https://github.com/您的用户名/仓库名.git
-cd 仓库名
+git clone https://github.com/lfdao/vtpi-m3u.git
+cd vtpi-m3u
 
 # 安装依赖
 pip install -r requirements.txt
