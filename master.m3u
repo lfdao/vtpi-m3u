@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/f8bTPRn.png" group-title="Religious",Creation TV (720p)
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",Creation TV (720p) [Not 24/7]
+http://al-pull2.hkatv.vip/live/CTV.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HKIBC (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="Undefined",HKIBC [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="General",HKSTV (香港衛視) (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HOY Infotainment Channel (1080p)
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HOY TV (1080p) [Geo-blocked]
+https://d3lbtdzocyu3ke.cloudfront.net/out/v1/214e9e20c822494ea5bc1f1428833428/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HOY TV (480p)
+https://uc6.i-cable.com/live_freedirect/opentvhd001.live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HOY TV (720p)
+https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK (港台電視31) (1080p)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK (港台電視31) (1080p) [Geo-blocked]
+https://cdn.hklive.tv/xxxx/31/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK (港台電視31) (360p) [Geo-blocked]
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 36 (港台電視36) (1080p) [Geo-blocked]
+https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Sport",TVB Finance and Sport Channel (720p)
+https://cdn.hklive.tv/xxxx/85/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB J2 (720p)
+https://cdn.hklive.tv/xxxx/82/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (翡翠台) (720p)
+https://cdn.hklive.tv/xxxx/81/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="News",TVB News Channel (720p)
+https://cdn.hklive.tv/xxxx/83/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Pearl (珍珠台) (1080p) [Geo-blocked]
+https://cdn.hklive.tv/xxxx/84/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",ViuTV (1080p) [Geo-blocked]
+https://cdn.hklive.tv/xxxx/99/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",ViuTVsix (1080p) [Geo-blocked]
+https://cdn.hklive.tv/xxxx/96/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",ViuTVsix (720p)
+https://live.astradamy.com/viutv6/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="News",i-Cable News Channel (有線新聞台) (1080p) [Geo-blocked]
+https://cdn.hklive.tv/xxxx/78/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",凤凰中文 (720p)
+http://php.17186.eu.org/phtv/fhzw.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",凤凰资讯 (720p)
+http://r.jdshipin.com/0Rp07?checkedby:iptvcat.com
+#EXTINF:0 tvg-country=" tvg-logo="" group-title="Undefined",iptvcat.com
+https://list.iptvcat.com/assets/videos/lazycat-iptvcat.com.mp4
